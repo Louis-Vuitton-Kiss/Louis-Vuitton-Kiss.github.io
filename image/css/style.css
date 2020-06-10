@@ -133,4 +133,7 @@ h1, h2, h3, h4, h5, h6 {
 .section {
     padding: 90px;
 }
+.section__advantage{
+    margin-top: 20px;
+}
 
