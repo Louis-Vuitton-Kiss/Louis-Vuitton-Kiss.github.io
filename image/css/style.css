@@ -135,5 +135,35 @@ h1, h2, h3, h4, h5, h6 {
 }
 .section__advantage{
     margin-top: 20px;
+    
 }
 
+.section__header {
+
+width: 100%;
+max-width: 950px;
+margin: 0 auto 40px;
+text-align: center;
+}
+
+.section__suptitle {
+    font-size: 40px;
+    color: #2c2a2a;
+}
+
+.section__text {
+    font-size: 15px;
+    color: #2c2a2a;
+}
+
+/* S */
+
+.S {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.S__item {
+    width: 30%;
+}
